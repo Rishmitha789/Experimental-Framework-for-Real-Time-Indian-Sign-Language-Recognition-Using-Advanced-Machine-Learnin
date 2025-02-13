@@ -25,7 +25,7 @@ This project aims to develop a **real-time sign language interpreter** using:
 - **Hand glove** for mounting sensors
 - **Resistors**
 
-![Hardware Setup](https://raw.githubusercontent.com/your-username/your-repo/main/Sign-Language-Interpreter-for-The-Hearing-Speaking-Impaired/Hardware%20Setup.jpeg)
+![Hardware Setup](https://github.com/Rishmitha789/Sign-Language-Interpreter-for-The-Hearing-Speaking-Impaired/blob/main/Hardware%20Setup.jpeg?raw=true)
 
 
 ### Software  
