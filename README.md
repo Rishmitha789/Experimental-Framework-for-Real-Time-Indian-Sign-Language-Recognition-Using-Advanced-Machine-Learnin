@@ -1,9 +1,10 @@
-# Sign-Language-Interpreter-for-The-Hearing-Speaking-Impaired  
+# Experimental Framework for Real-Time Indian Sign Language Recognition Using Advanced Machine Learning Algorithms for Community Development  
 
 ## Overview  
 This project aims to develop a **real-time sign language interpreter** using:  
 - **Flex and accelerometer sensors** integrated with an **ESP32 board**.  
-- **Machine learning algorithms** to classify gestures and translate them into Readable outputs.   
+- **Machine learning algorithms** to classify gestures and translate them into Readable outputs.
+- Setting up a local server and rendering a webpage to enable real time communication.   
 - A solution enabling seamless communication for hearing and speech-impaired individuals.  
 
 ## Features  
@@ -30,10 +31,19 @@ This project aims to develop a **real-time sign language interpreter** using:
   - `numpy`  
   - `pandas`  
   - `matplotlib`  
-  - `scikit-learn`  
+  - `scikit-learn`
+  - `json`
+  - `time`
 - Gesture classification using machine learning algorithms such as:  
   - Decision Tree  
-  - Random Forest  
+  - Random Forest
+  - Logistic Regression
+  - SVM
+  - KNN
+  - FNN
+  - Transformer model
+  - LSTM
+  - XGBoost
 - **Arduino IDE** for ESP32 programming
 - **Tera term** for Data Logging
 
