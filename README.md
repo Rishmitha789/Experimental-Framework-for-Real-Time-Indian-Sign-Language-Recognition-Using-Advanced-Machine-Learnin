@@ -25,6 +25,8 @@ This project aims to develop a **real-time sign language interpreter** using:
 - **Hand glove** for mounting sensors
 - **Resistors**
 
+  
+
 ### Software  
 - **Google Collab** for data analysis and machine learning using python.
 - Libraries:  
