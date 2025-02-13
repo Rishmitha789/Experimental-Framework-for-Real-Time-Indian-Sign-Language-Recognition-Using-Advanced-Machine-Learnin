@@ -25,7 +25,8 @@ This project aims to develop a **real-time sign language interpreter** using:
 - **Hand glove** for mounting sensors
 - **Resistors**
 
-  ![Hardware Setup](Hardware Setup.jpeg)
+![Hardware Setup](https://raw.githubusercontent.com/your-username/your-repo/main/Sign-Language-Interpreter-for-The-Hearing-Speaking-Impaired/Hardware%20Setup.jpeg)
+
 
 ### Software  
 - **Google Collab** for data analysis and machine learning using python.
