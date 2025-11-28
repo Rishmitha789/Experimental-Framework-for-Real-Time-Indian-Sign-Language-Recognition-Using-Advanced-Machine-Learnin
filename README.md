@@ -18,12 +18,12 @@ This project aims to develop a **real-time sign language interpreter** using:
 ## System Components  
 
 ### Hardware  
-- **ESP32 microcontroller**  
-- **Flex sensors**  
-- **Accelerometer sensor** (e.g., MPU6050)  
-- **Power supply**  
-- **Hand glove** for mounting sensors
-- **Resistors**
+- **ESP32 microcontroller.**  
+- **Flex sensors.**  
+- **Accelerometer sensor.** (e.g., MPU6050)  
+- **Power supply.**  
+- **Hand glove.** for mounting sensors
+- **Resistors.**
 
 ![Hardware Setup](https://github.com/Rishmitha789/Sign-Language-Interpreter-for-The-Hearing-Speaking-Impaired/blob/main/Hardware%20Setup.jpeg?raw=true)
 
